@@ -1,0 +1,33 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.newautomac.webapp"
+        },
+        "jhipsterVersion": "5.7.2",
+        "applicationType": "monolith",
+        "baseName": "newautomac",
+        "packageName": "com.newautomac.webapp",
+        "packageFolder": "com/newautomac/webapp",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Memory",
+        "prodDatabaseType": "mysql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": "eureka",
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "MjNlMDNkMWU2YzlkYWJmYzZmMGZmM2Q4ZjI5NDM4YTcyZjkwODllZThjMmFmZmU5YjBkYmMxYTNmMmI0NjI3ODZlNzE2MTYzMjE2ZDg5OGI4OWUxZTAxNDQ2NDE0OWQ0MGY3YWIwNmEyMjI5NGQwZjJkODUyNWJlNDAwNzU3YjQ=",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "otherModules": [],
+        "enableTranslation": false
+    }
+}
